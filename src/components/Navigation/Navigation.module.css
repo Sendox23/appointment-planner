@@ -1,0 +1,12 @@
+.link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+    margin-right: 30.5px;
+    text-decoration-line: none;
+  }
+  
+.activeLink {
+    text-decoration-line: underline;
+  }
